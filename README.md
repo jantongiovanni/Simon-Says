@@ -9,11 +9,12 @@
  
   ## Walkthrough
  
- <img src= 'https://i.imgur.com/XRTVD0l.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+ <img src= 'https://i.imgur.com/dk1jH2S.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
  
  ## Sources 
  
  [Udemy course used to make this application](https://www.udemy.com/angry-birds-crossy-road-game-development-swift-4-spritekit-scenekit/)
+ 
  [UI Colors Source](flatuicolors.com)
  
  
