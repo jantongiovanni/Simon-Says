@@ -15,5 +15,15 @@ class CircularButton: UIButton {
         // no sublayers drawn behind button
         layer.masksToBounds = true
     }
+    
+    override var isHighlighted: Bool {
+        didSet {
+            if isHighlighted {
+                alpha = 1.0
+            } else {
+                alpha = 0.5
+            }
+        }
+    }
 
 }
